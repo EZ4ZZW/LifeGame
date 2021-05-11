@@ -2,7 +2,9 @@
 
 LifeGame
 
-Reference[exgod22356/LifeGamePY](https://github.com/exgod22356/LifeGamePY)
+Reference
+
+[exgod22356/LifeGamePY](https://github.com/exgod22356/LifeGamePY)
 
 # Requirements
 
