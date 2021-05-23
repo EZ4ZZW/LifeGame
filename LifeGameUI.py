@@ -70,9 +70,11 @@ class LifeGameUI:
 
     def start(self):
         self.frame.GameStatus = 1
+        return self.frame.GameStatus
 
     def pause(self):
         self.frame.GameStatus = 0
+        return self.frame.GameStatus
 
     def reset(self):
         self.frame.reset()
